@@ -1,3 +1,29 @@
 <resources>
-    <string name="app_name">FirstLab</string>
+    <string name="app_name">Englot</string>
+    
+    <!-- Main Screen -->
+    <string name="your_lists">Ваши списки</string>
+    <string name="add_list">Добавить список</string>
+    
+    <!-- Add List Dialog -->
+    <string name="add_new_list">Добавление нового списка</string>
+    <string name="list_name_hint">Введите название списка</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    
+    <!-- List Detail Screen -->
+    <string name="list_prefix">Список</string>
+    <string name="add_word">Добавить слово</string>
+    <string name="start_training">Начать тренировку</string>
+    
+    <!-- Add Word Dialog -->
+    <string name="add_new_word">Добавление нового слова</string>
+    <string name="english_word_hint">Изучаемое слово</string>
+    <string name="translation_hint">Перевод</string>
+    
+    <!-- Training Screen -->
+    <string name="finish_training">Закончить тренировку</string>
+    <string name="next">Далее</string>
+    <string name="tap_to_flip">Нажмите на карточку</string>
+    <string name="no_words">В списке пока нет слов</string>
 </resources>
