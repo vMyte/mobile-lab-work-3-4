@@ -2,4 +2,18 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    
+    <!-- Englot Theme Colors -->
+    <color name="purple_primary">#9C6ADE</color>
+    <color name="purple_dark">#7B4FC4</color>
+    <color name="purple_light">#C9B1E8</color>
+    <color name="purple_card">#D4C4E8</color>
+    
+    <color name="gray_background">#F5F5F5</color>
+    <color name="gray_card">#E0E0E0</color>
+    <color name="gray_dialog">#BDBDBD</color>
+    
+    <color name="text_primary">#333333</color>
+    <color name="text_secondary">#666666</color>
+    <color name="text_hint">#999999</color>
 </resources>

@@ -1,9 +1,24 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
     <style name="Base.Theme.FirstLab" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/purple_primary</item>
+        <item name="colorPrimaryDark">@color/purple_dark</item>
+        <item name="colorAccent">@color/purple_primary</item>
+        <item name="android:windowBackground">@color/gray_background</item>
     </style>
 
     <style name="Theme.FirstLab" parent="Base.Theme.FirstLab" />
+    
+    <!-- Custom Button Style -->
+    <style name="EnglotButton" parent="Widget.Material3.Button">
+        <item name="android:backgroundTint">@color/purple_primary</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="cornerRadius">24dp</item>
+    </style>
+    
+    <!-- Card Style -->
+    <style name="EnglotCard">
+        <item name="android:background">@drawable/card_background</item>
+        <item name="android:padding">16dp</item>
+    </style>
 </resources>
