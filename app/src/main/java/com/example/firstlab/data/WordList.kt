@@ -4,6 +4,3 @@ data class WordList(
     val id: Int,
     val name: String
 )
-
-
-

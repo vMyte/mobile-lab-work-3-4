@@ -6,6 +6,3 @@ data class Word(
     val englishWord: String,
     val russianTranslation: String
 )
-
-
-
